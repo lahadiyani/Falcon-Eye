@@ -1,6 +1,8 @@
 # Falcon-Eye
 eagle eye versi mini
 
+tidak disarankan menggunakan paket internet karena file model deepface berukuran 500 mb
+
 ```
 
 python -m venv venv
