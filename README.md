@@ -16,12 +16,13 @@ python -m venv venv
 
 ```
 
-#mac os/ linux
+# mac os/ linux
+
 ```
 source venv/bin/activate
 ```
 
-#pip
+# pip
 ```
 pip install requests
 pip install deepface
